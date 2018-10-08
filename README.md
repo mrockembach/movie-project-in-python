@@ -9,6 +9,7 @@ The program consists of 4 files: media.py, entertainment_center.py and fresh_tom
 
 ## Usage
 You need to open the fresh_tomatoes.html in a browser.
+You can also open the entertainment_center.py in the python IDLE and run, which will have the same effect.
 Then you can browse the movies on the list and click on the cover of each of them. Each time you click, the movie trailer will open in a window.
 
 ## Knows Bugs
